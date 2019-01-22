@@ -79,5 +79,6 @@ interests = [
 Kevin Tiller is an undergrad student, currently studying at the University of Texas at Arlington working towards a degree in computer science. Interested in further developing skills learned and apply to real-world applications.
 
 Current GPA of 3.467
+
 Computer Science Courses Completed:  
   Machine Learning, Artificial Intelligence, Software Testing, Computer Organization & Assembly Language, Algorithms, Theoretical Concepts of CSE, Operating Systems, Object-Oriented Programming, Database Systems
