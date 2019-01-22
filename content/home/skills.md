@@ -34,6 +34,12 @@ weight = 7
   description = "Java, C/C++, SQL, Python 3.0, PHP, MATLAB"  
   
 [[feature]]
+  icon = "file-code"
+  icon_pack = "fab"
+  name = "IDE Tools"
+  description = "PyCharm, Visual Studios, Eclipse"  
+  
+[[feature]]
   icon = "laptop"
   icon_pack = "fas"
   name = "Applications"
