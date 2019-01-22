@@ -6,7 +6,7 @@ name = "Kevin Tiller"
 superuser = true
 
 # Role/position
-role = "Professor of Artificial Intelligence"
+role = "Computer Science Undergrad"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -21,8 +21,10 @@ email = ""
 # List (academic) interests or hobbies
 interests = [
   "Artificial Intelligence",
-  "Computational Linguistics",
-  "Information Retrieval"
+  "Computer Vision",
+  "Machine Learning",
+  "Robotics",
+  "Philosophy"
 ]
 
 # List qualifications (such as academic degrees)
