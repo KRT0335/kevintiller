@@ -6,7 +6,7 @@ date = 2017-09-20T00:00:00
 # Activate this widget? true/false
 active = true
 
-title = "Skills"
+title = "Technical Skills"
 subtitle = ""
 
 # Order that this section will appear in.
@@ -28,7 +28,7 @@ weight = 7
   description = "Ubuntu Linux, Windows 7, 8, and 10"
   
 [[feature]]
-  icon = "chart-line"
+  icon = "code"
   icon_pack = "fas"
   name = "Programming Languages"
   description = "Java, C/C++, SQL, Python 3.0, PHP, MATLAB"  
