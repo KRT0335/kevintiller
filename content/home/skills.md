@@ -35,7 +35,7 @@ weight = 7
   
 [[feature]]
   icon = "file-code"
-  icon_pack = "fab"
+  icon_pack = "fas"
   name = "IDE Tools"
   description = "PyCharm, Visual Studios, Eclipse"  
   
