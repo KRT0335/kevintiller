@@ -1,6 +1,6 @@
 +++
 # Display name
-name = "Kevin Tillert"
+name = "Kevin Tiller"
 
 # Is this the primary user of the site?
 superuser = true
