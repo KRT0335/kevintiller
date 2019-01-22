@@ -22,8 +22,8 @@ weight = 7
 # * ai - academic icons (see https://jpswalsh.github.io/academicons/)
 
 [[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
+  icon = "microsoft"
+  icon_pack = "fas"
   name = "Operating Systems"
   description = "Ubuntu Linux, Windows 7, 8, and 10"
   
@@ -34,7 +34,7 @@ weight = 7
   description = "Java, C/C++, SQL, Python 3.0, PHP, MATLAB"  
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "laptop"
   icon_pack = "fas"
   name = "Applications"
   description = "Virtual Machines, phpMyAdmin, Version Control (Git), UML, ERD/EERD Documentation"
