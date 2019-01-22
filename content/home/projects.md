@@ -48,8 +48,5 @@ filter_default = 0
 #   name = "Other"
 #   tag = "Demo"
 
-[[filter]]
-   name = "Other"
-   tag = "Demo"
 +++
 
