@@ -46,9 +46,6 @@ date_format = "Jan 2006"
   
 [[item]]
   title = "Intro to Python"
-  organization = "1"
-  date_start = ""
-  date_end = ""
   description = ""
 
 +++
