@@ -22,7 +22,7 @@ weight = 7
 # * ai - academic icons (see https://jpswalsh.github.io/academicons/)
 
 [[feature]]
-  icon = "microsoft"
+  icon = "windows"
   icon_pack = "fas"
   name = "Operating Systems"
   description = "Ubuntu Linux, Windows 7, 8, and 10"
