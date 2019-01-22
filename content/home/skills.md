@@ -23,7 +23,7 @@ weight = 7
 
 [[feature]]
   icon = "windows"
-  icon_pack = "fas"
+  icon_pack = "fab"
   name = "Operating Systems"
   description = "Ubuntu Linux, Windows 7, 8, and 10"
   
