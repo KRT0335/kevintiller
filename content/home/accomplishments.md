@@ -1,7 +1,7 @@
 +++
 # Accomplishments widget.
 widget = "accomplishments"  # Do not modify this line!
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 
 #title = "Accomplish&shy;ments"
 title = "Project"
@@ -46,6 +46,9 @@ date_format = "Jan 2006"
   
 [[item]]
   title = "Intro to Python"
+  organization = "DataCamp"
+  date_start = "2017-07-01"
+  date_end = "2017-12-21"
   description = ""
 
 +++
