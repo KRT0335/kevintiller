@@ -24,19 +24,19 @@ weight = 7
 [[feature]]
   icon = "r-project"
   icon_pack = "fab"
-  name = "R"
-  description = "90%"
+  name = "Operating Systems"
+  description = "Ubuntu Linux, Windows 7, 8, and 10"
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  name = "Programming Languages"
+  description = "Java, C/C++, SQL, Python 3.0, PHP, MATLAB"  
   
 [[feature]]
   icon = "camera-retro"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Applications"
+  description = "Virtual Machines, phpMyAdmin, Version Control (Git), UML, ERD/EERD Documentation"
 
 +++
