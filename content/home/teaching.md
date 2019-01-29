@@ -20,3 +20,4 @@ This is an example of using the *custom* widget to create your own homepage sect
 To remove this section, either delete `content/home/teaching.md` or edit the frontmatter of the file to deactivate the widget by setting `active = false`.  
 url = "https://www.coursera.org"  
 img = "static/img/Capture1.jpg"  
+{{< figure library="1" src="Capture1.JPG" title="A caption" >}}  
