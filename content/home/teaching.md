@@ -17,3 +17,4 @@ weight = 60
 
 This recommender system application will allow gamers to expand their personal library and explore more games that are similar to their favorites. Once the user is done with a game and wants to know what to play next the recommender system will take in the finish game and produces a list of similar games that the user can play. 
 {{% staticref "files/Project_Idea_Proposal.pdf" "newtab" %}}Proposal Paper{{% /staticref %}} 
+{{% staticref "files/Sketches.pdf" "newtab" %}}Sketches{{% /staticref %}} 
