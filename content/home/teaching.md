@@ -18,8 +18,7 @@ weight = 60
 This recommender system application will allow gamers to expand their personal library and explore more games that are similar to their favorites. Once the user is done with a game and wants to know what to play next the recommender system will take in the finish game and produces a list of similar games that the user can play. 
 {{% staticref "files/Project_Idea_Proposal.pdf" "newtab" %}}Proposal Paper{{% /staticref %}} 
   
-# Images of other applications/platforms use of a search recommender system:  
-
-# {{< figure library="1" src="Capture1.JPG" title="Steam Store Page Recommends via Tags" >}}  
-# {{< figure library="1" src="Capture2.JPG" title="Quantic Foundry Search" >}}  
-# {{< figure library="1" src="Capture3.JPG" title="Quantic Foundry Result List" >}}  
+# Images of other applications/platforms use of a search recommender system:
+# {{< figure library="1" src="Capture1.JPG" title="Steam Store Page Recommends via Tags" >}}
+# {{< figure library="1" src="Capture2.JPG" title="Quantic Foundry Search" >}}
+# {{< figure library="1" src="Capture3.JPG" title="Quantic Foundry Result List" >}}
