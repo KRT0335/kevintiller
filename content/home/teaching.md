@@ -21,3 +21,4 @@ This recommender system application will allow gamers to expand their personal l
 
   +{{% staticref "files/Project_Idea_Proposal.pdf" "newtab" %}}Proposal Paper{{% /staticref %}}    
   +{{% staticref "files/Sketches.pdf" "newtab" %}}Sketches{{% /staticref %}} 
+  +{{% staticref "files/Dev_Phase_1_Report.pdf" "newtab" %}}Phase 1: Search Report{{% /staticref %}} 
