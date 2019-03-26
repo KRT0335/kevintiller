@@ -19,7 +19,7 @@ This recommender system application will allow gamers to expand their personal l
 
 {{< figure library="1" src="FullDiagram.png" >}}
 
-  +http://discorn.pythonanywhere.com/
+  +http://discorn.pythonanywhere.com/                                                            
   +{{% staticref "files/Project_Idea_Proposal.pdf" "newtab" %}}Proposal Paper{{% /staticref %}}    
   +{{% staticref "files/Sketches.pdf" "newtab" %}}Sketches{{% /staticref %}}                    
   +{{% staticref "files/Dev_Phase_1_Report.pdf" "newtab" %}}Phase 1: Search Report{{% /staticref %}}  
