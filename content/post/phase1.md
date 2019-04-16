@@ -1,3 +1,15 @@
++++
+title = "Video Game Recommender System   Part 1: Search"
+date = 2019-04-15
+
+# List format.
+#   0 = Simple
+#   1 = Detailed
+#   2 = Stream
+list_format = 2
+
++++
+
 # Video Game Recommender System   Part 1: Search
 
 Website: http://discorn.pythonanywhere.com/
