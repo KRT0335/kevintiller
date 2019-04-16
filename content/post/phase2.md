@@ -10,7 +10,6 @@ list_format = 2
 
 +++
 
-# Video Game Recommender System   Part 2: Classifier
 
 Website: http://discorn.pythonanywhere.com/
 
