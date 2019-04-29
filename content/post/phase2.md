@@ -1,5 +1,5 @@
 +++
-title = "Video Game Recommender System   Part 2: Classifier"
+title = "Video Game Recommender System   Part 2: Classifiers"
 date = 2019-03-26
 
 # List format.
