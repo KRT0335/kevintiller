@@ -23,6 +23,8 @@ After the user enters the query, the program would run MNB by running NB for eve
 # 3.	Algorithm  
 Multinomial Naive Bayes by finding the best tag through P(tag | query) = P(tag)*P(word_1 | tag)*...*P(ward_n | tag)  
 
+# Contribution
+Adapting the Multinomial Naive Bayes algorithm and classifier to python 3 and accessible through PythonAnywhere without the use of sk-learn and pandas.
 # Challenges:  
 •	Choosing between SVM and MNB for the classifier  
 •	Deciding which tags to use to build the classifier  
