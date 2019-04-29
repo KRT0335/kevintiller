@@ -23,6 +23,8 @@ To save space and reduce load time several unused data columns in the dataset we
 # 3.	Algorithm
 The search function will use TF-IDF (Term Frequency – Inverse Document Frequency) by taking in every word on the input and calculates the frequency of the term among the documents then multiplied by the inverted frequency of term occurrences in each document. This repeats for every word and return a score to be outputted in the results page.
 
+# Contribution
+Adapting the TF-IDF algorithm to python 3 and accessible through PythonAnywhere without the use of sk-learn and pandas.
 # Challenges:
 •	Initial website made using JavaScript but reverted to using Python instead.  
 •	Crashed when using Flask-tables, resolved by using HTML table.  
